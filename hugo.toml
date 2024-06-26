@@ -57,23 +57,13 @@ Arxiv
 
 
 
-### 
-
-
-**Tianhao Wu**, Jing Yang, Zhilin Guo, Jingyi Wan, Fangcheng Zhong, Cengiz Oztireli
-
-Arxiv
-
-[📄 Paper]() | [🌐 Project Page]()
-
-
 
 ### D^2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video
 
 
 **Tianhao Wu**, Fangcheng Zhong, Andrea Tagliasacchi, Forrester Cole, Cengiz Oztireli
 
-Arxiv
+NeurIPS 2022
 
 [📄 Paper](https://arxiv.org/abs/2205.15838) | [🌐 Project Page](https://d2nerf.github.io/)
 
@@ -90,7 +80,8 @@ Yishu Miao and Derek Nowrouzezahrai and Cengiz Oztireli and Etienne Pot and
 Noha Radwan and Daniel Rebain and Sara Sabour and Mehdi S. M. Sajjadi and Matan Sela and
 Vincent Sitzmann and Austin Stone and Deqing Sun and Suhani Vora and Ziyu Wang and
 **Tianhao Wu** and Kwang Moo Yi and Fangcheng Zhong and Andrea Tagliasacchi
-Arxiv
+
+CVPR 2022
 
 [📄 Paper](https://arxiv.org/abs/2203.03570) | [🌐 Project Page](https://github.com/google-research/kubric)
 
