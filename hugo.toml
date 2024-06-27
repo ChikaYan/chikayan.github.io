@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://chikayan.github.io/'
 languageCode = 'en-us'
 title = 'Walter (Tianhao) Wu'
 theme = 'typo'
@@ -21,6 +21,11 @@ homeIntroTitle = 'Hi!'
 homeIntroContent = """
 I'm a PhD student at the Unveristy of Cambridge, supervised by [Cengiz Öztireli](https://www.cl.cam.ac.uk/~aco41/). My current research is mainly on image-based rendering and implicit neural representation. I'm interested in a wide range of topics including novel view synthesis, 3D reconstruction, video learning and scene decomposition.
 
+<!-- ![Resize](/images/prof_pic.jpg) -->
+
+<!-- <img src="/images/prof_pic.jpg" alt="drawing" width="200"/> -->
+
+<!-- {{< imgresize "/images/prof_pic" "350x350" "Alternate Text" >}} -->
 
 # Selected Publications
 
@@ -126,7 +131,7 @@ url = "/"
 
 [[params.menu]]
 name = "CV"
-url = "/cv"
+url = "/cv/Tianhao (Walter) Wu CV.pdf"
 
 # Syntax highligth on code blocks
 [markup]
